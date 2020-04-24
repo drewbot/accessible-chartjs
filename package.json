@@ -1,0 +1,21 @@
+{
+  "name": "accessible-chartjs",
+  "version": "1.0.0",
+  "description": "ADA compliant charts with Chart JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "accessible",
+    "charts",
+    "chartjs",
+    "ada",
+    "screenreader"
+  ],
+  "author": "Drew Botka",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^2.9.3"
+  }
+}
