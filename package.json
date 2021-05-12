@@ -16,6 +16,6 @@
   "author": "Drew Botka",
   "license": "ISC",
   "dependencies": {
-    "chart.js": "^2.9.3"
+    "chart.js": "^2.9.4"
   }
 }
